@@ -1,0 +1,4 @@
+USA = Washington 
+Uzbekiston = Toshkent 
+France = Paris 
+Italy = Rome

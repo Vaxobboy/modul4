@@ -1,0 +1,5 @@
+ism : [86, 97, 120, 111, 98] || Vaxob 
+familya : [72, 97, 109, 122, 97, 121, 101, 118, 32] || Hamzayev  
+tug'ulgan kun : [50, 54] || 26 
+tug'ulgan oy(satr) : [97, 112, 114, 101, 108] || aprel 
+tug'ilgan yil : [50, 48, 48, 56] || 2008
